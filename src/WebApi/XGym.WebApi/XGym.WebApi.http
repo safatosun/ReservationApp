@@ -1,0 +1,6 @@
+@XGym.WebApi_HostAddress = http://localhost:5134
+
+GET {{XGym.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
